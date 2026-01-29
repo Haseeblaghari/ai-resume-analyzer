@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-huggingface
+
+sentence-transformers
+scikit-learn
+
+streamlit
+pypdf
+
+typing-extensions
