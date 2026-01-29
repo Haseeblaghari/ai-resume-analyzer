@@ -64,8 +64,8 @@ Streamlit
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-resume-analyzer-langgraph.git
-cd ai-resume-analyzer-langgraph
+https://github.com/Haseeblaghari/ai-resume-analyzer.git
+cd ai-resume-analyzer
 
 2️⃣ Create virtual environment (recommended)
 python -m venv venv
